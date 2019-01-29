@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MASAssignment</string>
+    <string name="title_activity_firebase">FirebaseActivity</string>
+</resources>
